@@ -1,8 +1,7 @@
 import math
 import helper
 import numpy as np
-import tensorflow as tf
-from tensorflow.models.rnn import rnn, rnn_cell
+import tensorflow as tf
 
 class BILSTM_CRF(object):
     
